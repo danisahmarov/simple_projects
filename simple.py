@@ -11,3 +11,4 @@ def cena(rub,kop=0):
     return "%i руб. %i коп." % (rub,kop)
 
 print (cena(3,5))
+print (cena(2,5))
